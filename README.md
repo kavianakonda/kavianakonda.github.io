@@ -1,4 +1,4 @@
-# Kavi's Github
+# Kavi's Simple Website
 
-## This was my first github account!
-## My other github account is kNelakonda
+## This was made with my first github account!
+## My other github account is kNelakonda (a collaborator for this)
